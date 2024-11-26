@@ -1,12 +1,14 @@
 ## Hi there, I'm Kassim Ahmad 👋
 
+- 🌱 I’m currently learning NestJS
+- 🔭 I’m currently developing a new project that leverages the Redis caching system.
+- 📫 How to reach me: <a href="https://kassim-ahmad.vercel.app/">My Website</a>  <a class="underline underline-offset-4 font-normal" href="mailto:kassimahmad023@gmail.com?subject=Hello%20Ahmad&amp;body=Here%20regarding%20a%20business%20proposition.">Send me a mail</a>
+
 <!--
 **ahmadOlawale008/ahmadOlawale008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-🔭 I’m currently working ona new project
-- 🌱 I’m currently learning ...
+ ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
