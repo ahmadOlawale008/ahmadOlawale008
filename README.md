@@ -1,7 +1,7 @@
 #  Hi there, I'm Kassim Ahmad 👋
 ## Software Engineer 🚀
 
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning Java Spring
 - 🔭 I’m currently developing a new project that leverages the Redis caching system.
 - 📫 How to reach me: <a href="https://kassim-ahmad.vercel.app/">My Website</a>  <a class="underline underline-offset-4 font-normal" href="mailto:kassimahmad023@gmail.com?subject=Hello%20Ahmad&amp;body=Here%20regarding%20a%20business%20proposition.">Send me a mail</a>
 
