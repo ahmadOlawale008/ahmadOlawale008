@@ -1,5 +1,5 @@
 #  Hi there, I'm Kassim Ahmad 👋
-## Software Engineer 🚀
+## Software Engineer (Web and Mobile App Dev) 🚀
 
 - 🌱 I’m currently learning Java Spring
 - 🔭 I’m currently developing a new project that leverages the Redis caching system.
